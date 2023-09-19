@@ -4,5 +4,9 @@ int main()
 {
     cout << "HELLO WORLD";
     cout << "CHANGES TO FETCH WITH GIT PULL";
-    cout << "CHANGES TO CAUSE CONFLICT";
+<<<<<<< HEAD
+    cout << "CHANGES TO RESOLVE CONFLICT";
+=======
+    cout << "CHANGES TO RESOLVE CONFLICT";
+>>>>>>> branch1
 }
