@@ -9,4 +9,5 @@ int main()
 =======
     cout << "CONFLICT";
 >>>>>>> branch1
+    cout << "CHANGES TO RESOLVE CONFLICT";
 }
