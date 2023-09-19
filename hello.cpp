@@ -4,5 +4,5 @@ int main()
 {
     cout << "HELLO WORLD";
     cout << "CHANGES TO FETCH WITH GIT PULL";
-    cout << "CONFLICT";
+    cout << "CHANGES TO RESOLVE CONFLICT";
 }
